@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/travalblog-react/static/css/main.59d59a5a.css",
+    "main.css": "/travalblog-react/static/css/main.c599adca.css",
     "main.js": "/travalblog-react/static/js/main.9dd3926a.js",
     "static/js/787.1913c2e7.chunk.js": "/travalblog-react/static/js/787.1913c2e7.chunk.js",
     "index.html": "/travalblog-react/index.html",
-    "main.59d59a5a.css.map": "/travalblog-react/static/css/main.59d59a5a.css.map",
+    "main.c599adca.css.map": "/travalblog-react/static/css/main.c599adca.css.map",
     "main.9dd3926a.js.map": "/travalblog-react/static/js/main.9dd3926a.js.map",
     "787.1913c2e7.chunk.js.map": "/travalblog-react/static/js/787.1913c2e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.59d59a5a.css",
+    "static/css/main.c599adca.css",
     "static/js/main.9dd3926a.js"
   ]
 }
