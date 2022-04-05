@@ -26,6 +26,7 @@
 
 .img1 {
   width: 50%;
+  height: fit-content;
 }
 
 .card {
